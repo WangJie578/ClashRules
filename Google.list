@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtube.nocookie.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,ytimg.com
+#DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,stitch.withgoogle.com
